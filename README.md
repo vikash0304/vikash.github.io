@@ -47,6 +47,6 @@ Followed TDD approach for validating the scenarios and Standardized the code qua
 ---
 
 ### INTERESTS
-Apart from being a web developer,
+Apart from being a developer,
 
 I enjoy being outdoors, so i go for run everyday. I love travelling to different places and explore different cultures. When i am inside , i play chess and listening music in my free time.
