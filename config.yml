@@ -1,0 +1,11 @@
+title: Vikash Kumar # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Tech Lead at Ford Motors
+  <br><br>
+  <a href="mailto:kr.vikash3491@gmail.com">kr.vikash3491@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/vikash-kumar-219243130/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/vikash0304">Gihub</a> 
+theme: jekyll-theme-minimal
