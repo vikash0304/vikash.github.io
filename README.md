@@ -1,3 +1,5 @@
+theme:minimal
+remote_theme: minimal
 ## Portfolio
 
 I am a Full stack developer with an experience of over 6 years. I have hands on experienceworking with Web Application and technologies. I have extensively worked on Java, ReactJs and AWS cloud Services for 6 years.
